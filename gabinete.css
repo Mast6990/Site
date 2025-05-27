@@ -1,6 +1,6 @@
 header{
     background-color: darkorange;
-    height: 110px;
+    height: 150px;
 
 }
 main{
@@ -75,7 +75,16 @@ a{
     flex-direction: row;
     margin: 40px;
 }
-    
+.pesquisar{
+   height: 100px;
+   margin: 1px;
+   position: relative;
+   
+}
+.lupa{
+   height: 20px;
+   border-radius:50% ;
+}    
     
 
 
