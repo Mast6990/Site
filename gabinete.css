@@ -5,11 +5,11 @@ header{
 }
 main{
     background-color: rgb(1, 18, 147);
-    height: 1100px;
+    height: 1900px;
 
 }
 footer{
-    background-color: gray;
+    background-color: darkorange;
     height:400px;
     width: auto;
     margin-top: auto;
