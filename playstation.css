@@ -39,14 +39,10 @@ footer{
 .container_produto{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-around;}
     
     
-}jkrthosrthohreuirthtiorjhtçfijhtlkitjrhiljtiltjeçwoatjlkejlrjhteylehwyhiagilrhoeatiouheqouiythhreouitheprophgkldphkpgjfdhppgfdshpfgdphpfgdhpghppfgpppppppppppppppppppppp    
 
-                    ui5ytiurayyiuiryguileyuilryieltiuryeitWEIYITUREYIURTEPIURTEUIPTITPEPGHSDAPJKPGDPHPFHDSWPJHPG32PJHSWFGDH2PKS2GDAHP23AP2RIETH2PUIDAFLP2HSG23KPJLFDSPH3GSKJPFDHKPGHPPP
-
-                    FGDIFGDAIRGDAHHUKFG
 .botao{
    border: 2px orangered solid;
    border-radius: 5px;
@@ -88,7 +84,32 @@ a{
 .lupa{
    height: 20px;
    border-radius:50% ;
-}    
+}  
+.carrinho{
+   height: 65px;
+   display: flex;
+   justify-content: right;
+   align-items: center;
+   margin-top: -80px;
+   
+   
+}
+.usuario{
+   height: 55px;
+   margin-top: -60px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   color: darkblue;
+
+}
+.usuario{
+   height: 55px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+    ;
+}  
     
 
 

@@ -6,6 +6,7 @@ header{
 main{
     background-color: rgb(1, 18, 147);
     height: 1700px;
+    width: auto;
 
 }
 footer{
@@ -21,7 +22,8 @@ footer{
     margin: 5px;
  }
  .produto{
-    height: 700px;
+    height: 500px;
+    width: 700px;
     margin: 40px;
     
 
@@ -51,7 +53,7 @@ footer{
    font-size: large;
    height: 50px;
    text-align: center;
-   justify-content: end;
+   justify-content: center;
    
    
 }
@@ -84,7 +86,32 @@ a{
 .lupa{
    height: 20px;
    border-radius:50% ;
-}    
+}  
+.carrinho{
+   height: 65px;
+   display: flex;
+   justify-content: right;
+   align-items: center;
+   margin-top: -80px;
+   
+   
+}
+.usuario{
+   height: 55px;
+   margin-top: -60px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   color: darkblue;
+
+}
+.usuario{
+   height: 55px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+    ;
+}  
     
 
 
