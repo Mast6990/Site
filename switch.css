@@ -82,13 +82,15 @@ a{
    margin: 1px;
    position: relative;
    
+   
+   
 }
 .lupa{
    height: 20px;
    border-radius:50% ;
 }  
 .carrinho{
-   height: 65px;
+   height: 55px;
    display: flex;
    justify-content: right;
    align-items: center;
@@ -105,7 +107,7 @@ a{
    color: darkblue;
 
 }
-.usuario{
+.usuariofoto{
    height: 55px;
    display: flex;
    align-items: center;
